@@ -1,1 +1,6 @@
+requests
+numpy
+sentence-transformers
+transformers
+torch
 streamlit
